@@ -1,6 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import ReactCSSTransitionGroup from 'react-addons-css-transition-group'
 import ReactChatView from 'react-chatview'
 import classnames from 'classnames'
 
